@@ -10,5 +10,6 @@ public class App {
         System.out.println("8888");
         System.out.println("100");
         System.out.println("100");
+        System.out.println("1001");
     }
 }
